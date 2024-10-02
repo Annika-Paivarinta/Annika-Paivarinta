@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi!
+I'm Annika. I'm a college student studying Physics and Computer Science.
 
 <!--
 **Annika-Paivarinta/Annika-Paivarinta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
